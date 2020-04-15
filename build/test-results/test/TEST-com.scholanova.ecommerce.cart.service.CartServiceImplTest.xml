@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.scholanova.ecommerce.cart.service.CartServiceImplTest" tests="4" skipped="4" failures="0" errors="0" timestamp="2020-04-15T12:18:55" hostname="banan-UX430UAR" time="0.001">
+  <properties/>
+  <testcase name="addProductToCart_ShouldAddTheProductToTheCart()" classname="com.scholanova.ecommerce.cart.service.CartServiceImplTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="changeProductQuantity_ShouldChangeQuantity()" classname="com.scholanova.ecommerce.cart.service.CartServiceImplTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="changeProductQuantity_ShouldHandleExceptions()" classname="com.scholanova.ecommerce.cart.service.CartServiceImplTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="addProductToCart_ShouldHandleExceptions()" classname="com.scholanova.ecommerce.cart.service.CartServiceImplTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

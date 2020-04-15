@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.scholanova.ecommerce.cart.entity.CartTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2020-04-15T12:18:55" hostname="banan-UX430UAR" time="0.091">
+  <properties/>
+  <testcase name="removeProduct_ShouldRemoveCartItem()" classname="com.scholanova.ecommerce.cart.entity.CartTest" time="0.015"/>
+  <testcase name="addProduct_ShouldThrowIllegalArgExcIfQuantityUnderOne()" classname="com.scholanova.ecommerce.cart.entity.CartTest" time="0.002"/>
+  <testcase name="getCartItemByProductName_ShouldReturnCorrectCartItem()" classname="com.scholanova.ecommerce.cart.entity.CartTest" time="0.052"/>
+  <testcase name="changeProduct_QuantityShouldChangeQuantity()" classname="com.scholanova.ecommerce.cart.entity.CartTest" time="0.003"/>
+  <testcase name="addProduct_ShouldCreateANewCartItem()" classname="com.scholanova.ecommerce.cart.entity.CartTest" time="0.002"/>
+  <testcase name="removeProduct_ShouldThrowNoSuchElemExcIfProductNotFound()" classname="com.scholanova.ecommerce.cart.entity.CartTest" time="0.001"/>
+  <testcase name="addProduct_ShouldAddProduct()" classname="com.scholanova.ecommerce.cart.entity.CartTest" time="0.001"/>
+  <testcase name="getCartItemByProductId_ShouldThrowNoSuchElementIfNotFound()" classname="com.scholanova.ecommerce.cart.entity.CartTest" time="0.001"/>
+  <testcase name="changeProduct_QuantityShouldThrowIllegalArgExcIfQuantityUnderOne()" classname="com.scholanova.ecommerce.cart.entity.CartTest" time="0.001"/>
+  <testcase name="addProduct_ShouldAddquantityIfProductAlreadyExists()" classname="com.scholanova.ecommerce.cart.entity.CartTest" time="0.001"/>
+  <testcase name="getTotalPrice_ShouldReturnTotalPriceWithVATPerProduct()" classname="com.scholanova.ecommerce.cart.entity.CartTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
